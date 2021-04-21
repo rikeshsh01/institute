@@ -1,0 +1,15 @@
+.input-group {
+    width: auto;
+}
+
+.input-group input,
+.input-group .form-notch,
+.input-group .form-notch-trailing {
+    border-top-right-radius: 0 !important;
+    border-bottom-right-radius: 0 !important;
+}
+
+.input-group button {
+    border-top-left-radius: 0 !important;
+    border-bottom-left-radius: 0 !important;
+}
